@@ -1,2 +1,3 @@
 # oib-taskno1
-A simple calculator built using  HTML, CSS and JavaScript.
+temperature converter helps in converting temperatures from diffrent degree  like
+celsius to fahrenheit, celsius to kelvin , fahrenheit to kelvin 
